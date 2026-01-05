@@ -26,6 +26,8 @@ config file is also compatible with `swhkd`.
 Because `swhkd` can be used anywhere, the same `swhkd` config can be used across
 Xorg or Wayland desktops, and you can even use `swhkd` in a TTY.
 
+This repo contains no AI generated content. AI generated contributor patches will always be rejected.
+
 ## Installation and Building
 
 [Installation and building instructions can be found here.](./INSTALL.md)
